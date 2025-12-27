@@ -1,1 +1,0 @@
-This is the third.md in main branch, there are something inside, JR-102: Set up the second and third file.
